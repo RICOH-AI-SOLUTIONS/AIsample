@@ -1,0 +1,6 @@
+git config --global user.name XX
+git config --global user.email XX
+git config --global --list
+
+git init
+git add .
